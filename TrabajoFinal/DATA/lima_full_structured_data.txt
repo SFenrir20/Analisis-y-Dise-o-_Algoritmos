@@ -1,0 +1,42 @@
+Departamento,Provincia,Ciudad,Distrito
+Lima,Lima,Lima,Ate
+Lima,Lima,Lima,Barranco
+Lima,Lima,Lima,Breña
+Lima,Lima,Lima,Carabayllo
+Lima,Lima,Lima,Chaclacayo
+Lima,Lima,Lima,Chorrillos
+Lima,Lima,Lima,Cieneguilla
+Lima,Lima,Lima,Comas
+Lima,Lima,Lima,El Agustino
+Lima,Lima,Lima,Independencia
+Lima,Lima,Lima,Jesús María
+Lima,Lima,Lima,La Molina
+Lima,Lima,Lima,La Victoria
+Lima,Lima,Lima,Lince
+Lima,Lima,Lima,Los Olivos
+Lima,Lima,Lima,Lurigancho
+Lima,Lima,Lima,Lurín
+Lima,Lima,Lima,Magdalena del Mar
+Lima,Lima,Lima,Miraflores
+Lima,Lima,Lima,Pachacámac
+Lima,Lima,Lima,Pucusana
+Lima,Lima,Lima,Pueblo Libre
+Lima,Lima,Lima,Puente Piedra
+Lima,Lima,Lima,Punta Hermosa
+Lima,Lima,Lima,Punta Negra
+Lima,Lima,Lima,Rímac
+Lima,Lima,Lima,San Bartolo
+Lima,Lima,Lima,San Borja
+Lima,Lima,Lima,San Isidro
+Lima,Lima,Lima,San Juan de Lurigancho
+Lima,Lima,Lima,San Juan de Miraflores
+Lima,Lima,Lima,San Luis
+Lima,Lima,Lima,San Martín de Porres
+Lima,Lima,Lima,San Miguel
+Lima,Lima,Lima,Santa Anita
+Lima,Lima,Lima,Santa María del Mar
+Lima,Lima,Lima,Santa Rosa
+Lima,Lima,Lima,Santiago de Surco
+Lima,Lima,Lima,Surquillo
+Lima,Lima,Lima,Villa El Salvador
+Lima,Lima,Lima,Villa María del Triunfo
